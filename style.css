@@ -310,7 +310,7 @@ nav .fa-solid{
 
 @media only screen and(max-width: 600px){
     #header{
-        background-image: url(internimage/wall.jpg);
+        background-image: url(internimage/IMG_1935.jpg);
     }
     .header-text
 {
@@ -318,7 +318,7 @@ nav .fa-solid{
     font-size: 10px;
 }
 .header-text h1{
-    font-size: 30px;
+    font-size: 2rem;
 }
 nav .fa-solid{
     display: block;
