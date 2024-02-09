@@ -311,6 +311,9 @@ nav .fa-solid{
 @media only screen and(max-width: 600px){
     #header{
         background-image: url(internimage/IMG_1935.jpg);
+        display:block;
+        object-fit: cover;
+        width: 100%;
     }
     .header-text
 {
